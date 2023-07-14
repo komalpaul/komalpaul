@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @komalpaul
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning enhancing my web development skills
-- 💞️ I’m looking to collaborate on making websites/blogs
+- 💞️ I’m looking to collaborate ..
 - 📫 How to reach me email
 
 <!---
